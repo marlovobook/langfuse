@@ -1,0 +1,6 @@
+langfuse
+openai
+pytest
+pytest-asyncio
+python-dotenv
+requests
